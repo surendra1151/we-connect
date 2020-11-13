@@ -1,0 +1,24 @@
+.Modal {
+    width: 50%;
+    height: 60%;
+    position: fixed;
+    top: 30%;
+    left:25%;
+    z-index: 2;
+    background-color: white;
+    border-radius: 9px;
+    box-shadow: 0 0 3rem rgba(0, 0, 0, 0.25);
+    padding: 2rem;
+
+  }
+  .groupinfo{
+      margin-top: 20px;
+  }
+  .groupName{
+      height: 40px;
+  }
+
+  .backgroundpic{
+      margin-top: 30px;
+  }
+  

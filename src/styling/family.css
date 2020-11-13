@@ -1,0 +1,94 @@
+.family{
+    width: 100% !important; 
+    height: 100% !important;
+   
+}
+.list{
+    margin-left:5% ;
+    margin-top: 10%;
+}
+.family_list{
+    background-image: url('../images/family.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:375px;
+    width:375px;
+    list-style: none;
+   
+}
+
+.family_text{
+    margin-left: 35%;
+}
+.friend_list{
+    background-image: url('../images/friends.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:375px;
+    width:375px;
+    list-style: none;
+    margin-left: 50px;
+   
+}
+.relatives_list{
+    background-image: url('../images/Relatives.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:375px;
+    width:375px;
+    list-style: none;
+    margin-left: 50px;
+   
+}
+
+.secondlist{
+    margin-left: 1.9%;
+    margin-top: 5%;
+}
+
+.office_list{
+    background-image: url('../images/collegues.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:375px;
+    width:375px;
+    list-style: none;
+    margin-left: 50px;
+   
+}
+.school_list{
+    background-image: url('../images/school.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:375px;
+    width:375px;
+    list-style: none;
+    margin-left: 50px;
+   
+}
+.neighbours_list{
+    background-image: url('../images/Relatives.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:375px;
+    width:375px;
+    list-style: none;
+    margin-left: 50px;
+   
+}
+.plus{
+    height:375px;
+    width:375px;
+    background-color: rgb(239, 240,241);
+    margin-left: 9%;
+    margin-top: 5%;
+    margin-bottom: 100px;
+}
+
+

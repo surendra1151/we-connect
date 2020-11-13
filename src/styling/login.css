@@ -1,0 +1,75 @@
+.we {
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+  color: floralwhite;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 12%;
+}
+.connect {
+  margin-top: 40px;
+}
+.indicator {
+  margin-left: 46%;
+  margin-top: 5%;
+}
+.splash {
+  background-color: #0e71eb;
+  height: 100%;
+  width: 100vw;
+}
+.login {
+  height: 100%;
+  width: 100vw;
+}
+.main {
+  height: 100vh;
+  width: 60%;
+}
+.we_connect {
+  height: 30px;
+  color: floralwhite;
+  font-size: 30px;
+  width: fit-content;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.back {
+  background-color: #0e71eb;
+}
+.email {
+  margin-left: 45%;
+  height: 1%;
+}
+.warning_email {
+  font-size: 5px;
+  height: 10px;
+  width: fit-content;
+  padding-bottom: 10px;
+}
+.warning_password {
+  font-size: 5px;
+  height: 10px;
+  width: max-content;
+  padding-bottom: 10px;
+}
+.alert {
+  padding: 0px !important;
+}
+
+.error_email {
+  font-size: 14px;
+  color: red;
+  margin-left: 5px;
+  margin-block-end: 0px !important;
+  margin-block-start: 0px !important;
+  font-family: "Times New Roman", Times, serif;
+}
+.error_icon {
+  margin-left: 14px;
+}
+
+.wrong {
+  border-color: red;
+}

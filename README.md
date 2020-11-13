@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This an application similar to whatsapp for chatting purposes but in my main page it divides into groups like family, friends,relatives,school etc., where we have our contacts. 
+
+Features:
+1.user can chat with friends,relatives
+2.user can update their status like working ,sleeping ,eating ,playing in emojis .
+3.user will have dp's,dp's on the left side of user and statuse emoji's on the right side.
+4.After updating their status suppose they are working so somebody calling it automatically generates he is busy.
+5.we can schedule calls to our friends or familys ,during that time it makes an popup whether to call or not.
+
 ## Available Scripts
 
 In the project directory, you can run:
